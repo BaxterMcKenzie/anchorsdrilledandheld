@@ -8,12 +8,12 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-top">
         <div className="footer-logo">
-          <img src="/img/assets/keene-krib-logo.svg" alt="Keene Krib Logo" />
+          <img src="/img/assets/anchors-drilled-held-logo.svg" alt="Anchors Drilled & Held Logo" />
         </div>
 
         <div className="footer-contact">
           <p>
-            <strong>Keene Krib</strong>
+            <strong>Anchors Drilled & Held</strong>
             <br /><br />
             Retaining Wall & Piling Experts in Wellington, NZ
             <br />
@@ -46,7 +46,7 @@ const Footer = () => {
       </div>
 
       <div className="footer-bottom">
-        <p>&copy; {new Date().getFullYear()} Keene Krib. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Anchors Drilled & Held. All rights reserved.</p>
       </div>
     </footer>
   );

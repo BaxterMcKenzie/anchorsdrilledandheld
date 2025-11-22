@@ -15,7 +15,7 @@ const Contact = () => {
         import.meta.env.VITE_EMAILJS_SERVICE_ID,
         import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
         e.target,
-        import.meta.env.VITE_EMAILJS_PUBLIC_KEY 
+        import.meta.env.VITE_EMAILJS_PUBLIC_KEY
       )
       .then(
         () => {
@@ -34,16 +34,16 @@ const Contact = () => {
   return (
     <>
       <Seo
-        title="Contact Us | Keene Krib"
-        description="Get in touch with Keene Krib for your retaining wall, piling, or landscaping project in Wellington."
-        url="https://keenekrib.co.nz/contact"
-        image="https://keenekrib.co.nz/img/assets/workers.jpg"
+        title="Contact Us | Anchors Drilled & Held"
+        description="Get in touch with Anchors Drilled & Held for your retaining wall, piling, or landscaping project in Wellington."
+        url="https://anchorsdrilledheld.nz/contact"
+        image="https://anchorsdrilledheld.nz/img/assets/workers.jpg"
       />
 
       <div className="body">
         <HeroCarousel
           image="/img/assets/contact-hero.webp"
-          alt="Get in touch"
+          alt="Contact Anchors Drilled & Held"
           heading={
             <>
               Let’s <span className="highlight">Talk</span>

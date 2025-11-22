@@ -1,19 +1,21 @@
 import React from "react";
 import HeroCarousel from "../components/HeroCarousel";
-import Seo from "../components/Seo"; // make sure this path matches your folder structure
+import Seo from "../components/Seo";
 import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
     <>
       <Seo
-        title="Keene Krib — Wellington Retaining Wall & Piling Experts"
-        description="Keene Krib is a family-owned Wellington business specialising in retaining walls, pole walls, piling, anchoring, and landscaping solutions."
-        url="https://keenekrib.co.nz" // update with your actual domain
-        image="https://keenekrib.co.nz/img/assets/workers.jpg" // update with your preferred social share image
+        title="Anchors Drilled & Held — Wellington Retaining Wall & Piling Experts"
+        description="Anchors Drilled & Held is a family-owned Wellington business specialising in retaining walls, pole walls, piling, anchoring, and landscaping solutions."
+        url="https://anchorsdrilledheld.nz"
+        image="https://anchorsdrilledheld.nz/img/assets/workers.jpg"
       />
+
       <div className="body">
         <HeroCarousel />
+
         <div className="container services-container">
           <h2>SERVICES</h2>
           <div className="services-grid">
@@ -111,15 +113,15 @@ const Home = () => {
           <img
             className="split-container-img"
             src="/img/our-work/wood-pole-4.jpg"
-            alt="Keene Krib team working on a retaining wall project in Wellington"
+            alt="Anchors Drilled & Held team working on a retaining wall project in Wellington"
           />
           <div className="split-container-p">
             <h3>Trusted Projects Across Wellington</h3>
             <p>
               From residential gardens to large-scale commercial developments,
-              Keene Krib brings decades of local experience to every project.
-              Our team is skilled in retaining walls, landscaping, piling, and
-              more.
+              Anchors Drilled & Held brings decades of local experience to every
+              project. Our team is skilled in retaining walls, landscaping,
+              piling, and more.
             </p>
             <p>
               We take pride in delivering quality, reliable, and safe solutions
@@ -143,15 +145,15 @@ const Home = () => {
           <img
             className="split-container-img"
             src="/img/assets/workers.jpg"
-            alt="Keene Krib team working on a retaining wall project in Wellington"
+            alt="Anchors Drilled & Held team working on a retaining wall project in Wellington"
           />
           <div className="split-container-p">
             <h3>Over 160 Years of combined Local Experience</h3>
             <p>
-              Keene Krib is a family-owned and operated business based in
-              Brooklyn, Wellington. We've proudly served Wellington and the
-              wider region for over three decades, building a strong reputation
-              for quality, reliability, and integrity.
+              Anchors Drilled & Held is a family-owned and operated business
+              based in Brooklyn, Wellington. We've proudly served Wellington and
+              the wider region for over three decades, building a strong
+              reputation for quality, reliability, and integrity.
             </p>
             <p>
               With a broad range of equipment and a dedicated, highly skilled

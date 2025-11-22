@@ -8,9 +8,9 @@ const MicropilesGrouting = () => {
   return (
     <>
       <Seo
-        title="Micropiles & Grouting | Keene Krib"
+        title="Micropiles & Grouting | Anchors Drilled & Held"
         description="Specialist micropiles and grouting solutions to stabilize structures and improve ground integrity in constrained or poor soil conditions across Wellington."
-        url="https://keenekrib.co.nz/services/micropiles-grouting"
+        url="https://anchorsdrilledheld.nz/services/micropiles-grouting"
       />
       <HeroCarousel
         image="/img/assets/service-head-2.jpg"
@@ -32,16 +32,17 @@ const MicropilesGrouting = () => {
           <img
             className="split-container-img"
             src="/img/services/micropile.webp"
-            alt="Example of micropiles and grouting by Keene Krib"
+            alt="Example of micropiles and grouting by Anchors Drilled & Held"
           />
 
           <div className="split-container-p">
             <h3 className="split-container-h3">About Micropiles & Grouting</h3>
 
             <p>
-              At <strong>Keene Krib</strong>, we provide specialist micropiling
-              and injection grouting services to strengthen foundations and
-              improve ground stability in difficult soil conditions.
+              At <strong>Anchors Drilled & Held</strong>, we provide specialist
+              micropiling and injection grouting services to strengthen
+              foundations and improve ground stability in difficult soil
+              conditions.
             </p>
 
             <p>
@@ -64,9 +65,9 @@ const MicropilesGrouting = () => {
             </p>
 
             <p>
-              Choosing <strong>Keene Krib</strong> for micropile and grouting
-              projects ensures expert installation, durable results, and
-              confidence in the safety of your structures.
+              Choosing <strong>Anchors Drilled & Held</strong> for micropile and
+              grouting projects ensures expert installation, durable results,
+              and confidence in the safety of your structures.
             </p>
           </div>
         </div>

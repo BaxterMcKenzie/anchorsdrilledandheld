@@ -7,21 +7,22 @@ const Services = () => {
   return (
     <>
       <Seo
-        title="Our Services | Keene Krib"
-        description="Discover the full range of retaining wall, piling, and landscaping services offered by Keene Krib in Wellington."
-        url="https://keenekrib.co.nz/services"
-        image="https://keenekrib.co.nz/img/assets/services-hero.jpg"
+        title="Our Services | Anchors Drilled & Held"
+        description="Explore the full range of retaining wall, piling, drilling, and landscaping services provided by Anchors Drilled & Held in Wellington."
+        url="https://anchorsdrilledheld.nz/services"
+        image="https://anchorsdrilledheld.nz/img/assets/services-hero.jpg"
       />
+
       <div className="body">
         <HeroCarousel
           image="/img/assets/our-services-hero.webp"
-          alt="Keene Krib Services"
+          alt="Anchors Drilled & Held Services"
           heading={
             <>
               Our <span className="highlight">Services</span>
             </>
           }
-          description="We provide expert retaining wall, piling, and landscaping solutions tailored to your project."
+          description="We provide expert retaining wall, piling, drilling, and landscaping solutions tailored to your project."
           showButtons={false}
         />
 

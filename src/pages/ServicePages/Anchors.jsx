@@ -8,13 +8,13 @@ const Anchors = () => {
   return (
     <>
       <Seo
-        title="Anchors | Keene Krib"
-        description="Professional installation of tension, passive, and pile anchors for walls, slopes, and unstable sites across Wellington."
-        url="https://keenekrib.co.nz/services/anchors"
-      />
+  title="Anchors | Anchors Drilled & Held"
+  description="Professional installation of tension, passive, and pile anchors for walls, slopes, and unstable sites across Wellington."
+  url="https://anchorsdrilledheld.nz/services/anchors"
+/>
       <HeroCarousel
         image="/img/assets/service-head-2.jpg"
-        alt="Anchors Installation"
+        alt="Anchors Drilled & Held Anchor Installation"
         heading={
           <>
             <span className="highlight">Anchors</span>
@@ -32,22 +32,20 @@ const Anchors = () => {
           <img
             className="split-container-img"
             src="/img/services/spray-wall.webp"
-            alt="Example of anchors installed by Keene Krib"
+            alt="Example of anchors installed by Anchors Drilled & Held"
           />
 
           <div className="split-container-p">
             <h3 className="split-container-h3">About Anchors</h3>
 
             <p>
-              At <strong>Keene Krib</strong>, we specialize in the professional
-              installation of ground anchors for retaining walls, slopes, and
-              other unstable terrain across Wellington.
+              At <strong>Anchors Drilled & Held</strong>, we specialize in the
+              professional installation of ground anchors for retaining walls,
+              slopes, and other unstable terrain across Wellington.
               <br />
-              Our anchor solutions include <strong>
-                tension anchors
-              </strong>, <strong>passive anchors</strong>, and{" "}
-              <strong>pile anchors</strong>, all engineered to meet precise load
-              and site requirements.
+              Our anchor solutions include <strong>tension anchors</strong>,{" "}
+              <strong>passive anchors</strong>, and <strong>pile anchors</strong>
+              , all engineered to meet precise load and site requirements.
             </p>
 
             <p>
@@ -71,14 +69,15 @@ const Anchors = () => {
               <br />
               Whether you’re reinforcing an existing retaining wall, securing a
               slope, or installing a new anchor system,{" "}
-              <strong>Keene Krib</strong> delivers reliable, high-quality
-              solutions tailored to your site’s specific needs.
+              <strong>Anchors Drilled & Held</strong> delivers reliable,
+              high-quality solutions tailored to your site’s specific needs.
             </p>
 
             <p>
-              Choosing <strong>Keene Krib</strong> for your anchor projects
-              means expert installation, durable results, and peace of mind
-              knowing your retaining walls and structures are safe and secure.
+              Choosing <strong>Anchors Drilled & Held</strong> for your anchor
+              projects means expert installation, durable results, and peace of
+              mind knowing your retaining walls and structures are safe and
+              secure.
             </p>
           </div>
         </div>

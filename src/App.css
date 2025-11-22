@@ -74,9 +74,9 @@ p, li {
 
 .logo {
   position: absolute;
-  height: 120px;
-  width: 120px;
-  top: -10px;
+  height: 150px;
+  width: 150px;
+  top: -20px;
   left: 40px;
   border-radius: 0;
 }
@@ -497,7 +497,7 @@ a {
 }
 
 .footer-logo img {
-  width: 120px;
+  width: 180px;
 }
 
 .footer-contact p,

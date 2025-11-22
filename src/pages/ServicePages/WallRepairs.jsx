@@ -8,9 +8,9 @@ const WallRepairs = () => {
   return (
     <>
       <Seo
-        title="Wall Repairs | Keene Krib"
+        title="Wall Repairs | Anchors Drilled & Held"
         description="Professional retaining wall repair services to restore structural integrity and safety for damaged or failing walls across Wellington."
-        url="https://keenekrib.co.nz/services/wall-repairs"
+        url="https://anchorsdrilledheld.nz/services/wall-repairs"
       />
       <HeroCarousel
         image="/img/assets/service-head-2.jpg"
@@ -32,14 +32,14 @@ const WallRepairs = () => {
           <img
             className="split-container-img"
             src="/img/services/wall-repair.webp"
-            alt="Example of a retaining wall repair by Keene Krib"
+            alt="Example of a retaining wall repair by Anchors Drilled & Held"
           />
 
           <div className="split-container-p">
             <h3 className="split-container-h3">About Wall Repairs</h3>
 
             <p>
-              At <strong>Keene Krib</strong>, we specialise in repairing
+              At <strong>Anchors Drilled & Held</strong>, we specialise in repairing
               retaining walls that have suffered damage or structural failure.
             </p>
 
@@ -62,7 +62,7 @@ const WallRepairs = () => {
 
             <p>
               Whether it’s a minor repair or a complex reinforcement project,{" "}
-              <strong>Keene Krib</strong> delivers reliable solutions that
+              <strong>Anchors Drilled & Held</strong> delivers reliable solutions that
               comply with local regulations and construction best practices.
             </p>
           </div>

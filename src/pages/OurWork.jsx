@@ -9,7 +9,7 @@ const projects = [
     title: "House Hanging off the Hill",
     description: [
       "The house was literally hanging off the hill, creating a challenging retaining wall repair project.",
-      "The Keene Krib team used their expertise in retaining wall construction and soil stabilization to safely repair a major slip.",
+      "The Anchors Drilled & Held team used their expertise in retaining wall construction and soil stabilization to safely repair a major slip.",
       "A huge effort with an outstanding result – a safe, stable, and visually restored property in Wellington.",
     ],
     images: [
@@ -24,7 +24,7 @@ const projects = [
     id: 2,
     title: "WCC Access Path Retaining Wall",
     description: [
-      "The Keene Krib team transformed an old, run-down access pathway for the Wellington City Council into a safe and welcoming space.",
+      "The Anchors Drilled & Held team transformed an old, run-down access pathway for the Wellington City Council into a safe and welcoming space.",
       "They repaired the retaining wall, resealed the path, installed a sturdy new fence, added proper drainage, and cleaned up the area.",
       "The result is a functional, safe, and visually improved access way for the community to enjoy.",
     ],
@@ -43,7 +43,7 @@ const projects = [
     id: 3,
     title: "Wooden Pole Retaining Wall & Landscaping",
     description: [
-      "The Keene Krib team replaced an old concrete retaining wall with a beautifully crafted timber pole wall in Wellington.",
+      "The Anchors Drilled & Held team replaced an old concrete retaining wall with a beautifully crafted timber pole wall in Wellington.",
       "They also upgraded the surrounding area with grass and timber surrounds, enhancing both functionality and visual appeal.",
       "This project demonstrates high-quality retaining wall solutions for tight-access residential sites.",
     ],
@@ -59,7 +59,7 @@ const projects = [
     title: "Timber Retaining Wall & Landscaping",
     description: [
       "Completed just in time for summer, this project involved building a beautiful wooden retaining wall with a matching fence and custom stairs.",
-      "The Keene Krib team enhanced the outdoor space with landscaping solutions, creating a safe, attractive, and functional area.",
+      "The Anchors Drilled & Held team enhanced the outdoor space with landscaping solutions, creating a safe, attractive, and functional area.",
       "This project highlights our expertise in retaining walls, timber work, and residential landscaping in Wellington.",
     ],
     images: [
@@ -76,7 +76,7 @@ const projects = [
     description: [
       "Following a major slip behind a residential property, our team was called in for urgent stabilisation and repair works.",
       "We installed strong steel pole retaining walls to secure the hillside, preventing further movement and protecting the home below.",
-      "Working efficiently under tight timeframes, Keene Krib provided a safe and durable solution that restored stability and gave the homeowners peace of mind.",
+      "Working efficiently under tight timeframes, Anchors Drilled & Held provided a safe and durable solution that restored stability and gave the homeowners peace of mind.",
     ],
     images: [
       "/img/our-work/steel-pole-slip-1.webp",
@@ -137,7 +137,7 @@ const projects = [
     title: "Private Driveway Slip Repair with Bored Piles",
     description: [
       "A private driveway suffered a major slip, approximately 12 metres wide, with some of the surface crumbling and becoming unsafe for use.",
-      "The Keene Krib team carefully coordinated with seven different property owners to plan and execute the repair with minimal disruption.",
+      "The Anchors Drilled & Held team carefully coordinated with seven different property owners to plan and execute the repair with minimal disruption.",
       "We installed 13-metre-deep bored piles to stabilise the underlying ground and support the driveway and surrounding structures.",
       "Once the piles were in place, we repaired and resurfaced the driveway to restore full functionality and safety.",
       "This project required precise engineering, careful access management, and collaboration with multiple stakeholders to ensure a successful outcome.",
@@ -184,15 +184,15 @@ const OurWork = () => {
   return (
     <>
       <Seo
-        title="Our Work | Keene Krib"
-        description="Showcasing our retaining walls, piling, landscaping, and more completed across Wellington."
-        url="https://keenekrib.co.nz/our-work"
-        image="/img/assets/keene-krib-our-work.jpg"
+        title="Our Work | Anchors Drilled & Held"
+        description="Showcasing our retaining walls, piling, landscaping, slip repairs, and foundation work completed across Wellington."
+        url="https://anchorsdrilledheld.nz/our-work"
+        image="https://anchorsdrilledheld.nz/img/assets/anchors-our-work.jpg"
       />
       <div className="body">
         <HeroCarousel
-          image="/img/assets/our-work-hero.webp" 
-          alt="Keene Krib completed projects"
+          image="/img/assets/our-work-hero.webp"
+          alt="Anchors Drilled & Held completed projects"
           heading={
             <>
               Our <span className="highlight">Work</span>

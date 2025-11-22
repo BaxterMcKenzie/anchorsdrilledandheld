@@ -18,8 +18,8 @@ const Header = () => {
       <a href="/">
         <img
           className="logo"
-          src="/img/assets/keene-krib-logo.svg"
-          alt="Keene Krib Logo"
+          src="/img/assets/anchors-drilled-held-logo.svg"
+          alt="Anchors Drilled & Held Logo"
         />
       </a>
       <div className="nav-links">

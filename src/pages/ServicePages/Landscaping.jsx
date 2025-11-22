@@ -8,9 +8,9 @@ const Landscaping = () => {
   return (
     <>
       <Seo
-        title="Landscaping | Keene Krib"
+        title="Landscaping | Anchors Drilled & Held"
         description="Professional landscaping services including site clearing, excavation, concreting, fencing, and decking across Wellington."
-        url="https://keenekrib.co.nz/services/landscaping"
+        url="https://anchorsdrilledheld.nz/services/landscaping"
       />
       <HeroCarousel
         image="/img/assets/service-head-2.jpg"
@@ -32,14 +32,14 @@ const Landscaping = () => {
           <img
             className="split-container-img"
             src="/img/our-work/wood-pole-4.jpg"
-            alt="Example of landscaping work by Keene Krib"
+            alt="Example of landscaping work by Anchors Drilled & Held"
           />
 
           <div className="split-container-p">
             <h3 className="split-container-h3">About Landscaping</h3>
 
             <p>
-              At <strong>Keene Krib</strong>, we provide comprehensive
+              At <strong>Anchors Drilled & Held</strong>, we provide comprehensive
               landscaping services designed to enhance and complement your
               outdoor spaces.
               <br />
@@ -58,8 +58,9 @@ const Landscaping = () => {
 
             <p>
               Whether preparing a site for a retaining wall or finishing your
-              project with beautiful landscaping, <strong>Keene Krib</strong>{" "}
-              provides craftsmanship and professionalism every step of the way.
+              project with beautiful landscaping,{" "}
+              <strong>Anchors Drilled & Held</strong> provides craftsmanship and
+              professionalism every step of the way.
             </p>
           </div>
         </div>

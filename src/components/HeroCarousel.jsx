@@ -32,7 +32,7 @@ const HeroCarousel = ({
       for over 40 years
     </>
   ),
-  description = "Keene Krib is a family-owned Wellington business specializing in retaining walls, pole walls, piling, and landscaping.",
+  description = "Anchors Drilled & Held is a family-owned Wellington business specializing in retaining walls, pole walls, piling, and landscaping.",
   showButtons = true,
   small = false,  // new prop
 }) => {

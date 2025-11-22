@@ -8,9 +8,9 @@ const PilingDrilling = () => {
   return (
     <>
       <Seo
-        title="Piling & Drilling | Keene Krib"
+        title="Piling & Drilling | Anchors Drilled & Held"
         description="Expert piling and drilling services using timber, concrete, or steel foundations for residential and commercial projects in Wellington."
-        url="https://keenekrib.co.nz/services/piling-drilling"
+        url="https://anchorsdrilledheld.nz/services/piling-drilling"
       />
       <HeroCarousel
         image="/img/assets/service-head-2.jpg"
@@ -32,16 +32,16 @@ const PilingDrilling = () => {
           <img
             className="split-container-img"
             src="/img/services/piling.webp"
-            alt="Example of piling and drilling work by Keene Krib"
+            alt="Example of piling and drilling work by Anchors Drilled & Held"
           />
 
           <div className="split-container-p">
             <h3 className="split-container-h3">About Piling & Drilling</h3>
 
             <p>
-              At <strong>Keene Krib</strong>, we specialize in professional
-              piling and drilling solutions to provide strong, stable
-              foundations for residential and commercial structures.
+              At <strong>Anchors Drilled & Held</strong>, we specialize in
+              professional piling and drilling solutions to provide strong,
+              stable foundations for residential and commercial structures.
             </p>
 
             <p>
@@ -57,9 +57,10 @@ const PilingDrilling = () => {
             </p>
 
             <p>
-              From planning to precise installation, <strong>Keene Krib</strong>{" "}
-              delivers engineered solutions that give your build the
-              foundational support it needs to last.
+              From planning to precise installation,
+              <strong> Anchors Drilled & Held</strong> delivers engineered
+              solutions that give your build the foundational support it needs
+              to last.
             </p>
           </div>
         </div>

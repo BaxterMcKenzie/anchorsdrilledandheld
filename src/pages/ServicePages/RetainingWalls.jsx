@@ -8,9 +8,9 @@ const RetainingWalls = () => {
   return (
     <>
       <Seo
-        title="Retaining Walls | Keene Krib"
+        title="Retaining Walls | Anchors Drilled & Held"
         description="Custom timber, concrete, and stone retaining wall solutions across Wellington."
-        url="https://keenekrib.co.nz/services/retaining-walls"
+        url="https://anchorsdrilledheld.nz/services/retaining-walls"
       />
       <HeroCarousel
         image="/img/assets/service-head-2.jpg"
@@ -32,14 +32,14 @@ const RetainingWalls = () => {
           <img
             className="split-container-img"
             src="/img/assets/retaining-wall.jpg"
-            alt="Example of a retaining wall built by Keene Krib"
+            alt="Example of a retaining wall built by Anchors Drilled & Held"
           />
 
           <div className="split-container-p">
             <h3 className="split-container-h3">About Retaining Walls</h3>
 
             <p>
-              At <strong>Keene Krib</strong>, we specialise in designing and
+              At <strong>Anchors Drilled & Held</strong>, we specialise in designing and
               constructing retaining walls that are both{" "}
               <strong>structurally sound</strong> and{" "}
               <strong>aesthetically pleasing</strong>.

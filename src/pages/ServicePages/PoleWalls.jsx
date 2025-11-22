@@ -8,9 +8,9 @@ const PoleWalls = () => {
   return (
     <>
       <Seo
-        title="Pole Walls | Keene Krib"
+        title="Pole Walls | Anchors Drilled & Held"
         description="Specialist pole wall systems designed for steep gradients and challenging terrain across Wellington."
-        url="https://keenekrib.co.nz/services/pole-walls"
+        url="https://anchorsdrilledheld.nz/services/pole-walls"
       />
       <HeroCarousel
         image="/img/assets/service-head-2.jpg"
@@ -32,15 +32,15 @@ const PoleWalls = () => {
           <img
             className="split-container-img"
             src="/img/services/timber-wall.webp"
-            alt="Example of a pole wall built by Keene Krib"
+            alt="Example of a pole wall built by Anchors Drilled & Held"
           />
 
           <div className="split-container-p">
             <h3 className="split-container-h3">About Pole Walls</h3>
 
             <p>
-              At <strong>Keene Krib</strong>, we specialise in engineering pole
-              walls for steep slopes and challenging terrain.
+              At <strong>Anchors Drilled & Held</strong>, we specialise in
+              engineering pole walls for steep slopes and challenging terrain.
             </p>
 
             <p>
@@ -64,8 +64,8 @@ const PoleWalls = () => {
 
             <p>
               From material selection to installation and maintenance,{" "}
-              <strong>Keene Krib</strong> delivers expert craftsmanship and
-              professional service.
+              <strong>Anchors Drilled & Held</strong> delivers expert
+              craftsmanship and professional service.
             </p>
           </div>
         </div>

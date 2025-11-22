@@ -8,10 +8,11 @@ const ConcreteWalls = () => {
   return (
     <>
       <Seo
-        title="Concrete / Spray Walls | Keene Krib"
+        title="Concrete / Spray Walls | Anchors Drilled & Held"
         description="From spray-applied shotcrete to poured-in-place solutions, our concrete and spray wall systems are engineered for strength and durability across Wellington."
-        url="https://keenekrib.co.nz/services/concrete-walls"
+        url="https://anchorsdrilledheld.nz/services/concrete-walls"
       />
+
       <HeroCarousel
         image="/img/assets/service-head-2.jpg"
         alt="Concrete / Spray Walls"
@@ -20,7 +21,7 @@ const ConcreteWalls = () => {
             Concrete / <span className="highlight">Spray Walls</span>
           </>
         }
-        description="From spray-applied shotcrete to poured-in-place, our concrete and spray wall systems are engineered for strength, durability, and long-term performance."
+        description="From spray-applied shotcrete to poured-in-place, our wall systems are engineered for strength, durability, and long-term performance."
         showButtons={false}
         small={true}
       />
@@ -32,63 +33,69 @@ const ConcreteWalls = () => {
           <img
             className="split-container-img"
             src="/img/services/spray-wall.webp"
-            alt="Example of a concrete or spray wall built by Keene Krib"
+            alt="Example of a concrete or spray wall built by Anchors Drilled & Held"
           />
 
           <div className="split-container-p">
             <h3 className="split-container-h3">About Concrete / Spray Walls</h3>
 
             <p>
-              At <strong>Keene Krib</strong>, we specialise in professional
-              concrete and spray wall solutions for residential, commercial, and
-              infrastructure projects across Wellington.
-              <br />
-              Our offerings include <strong>spray-applied shotcrete</strong>,{" "}
-              <strong>poured-in-place</strong>, and reinforced concrete walls
-              engineered for long-lasting strength and durability.
+              At <strong>Anchors Drilled & Held</strong>, we deliver
+              professional concrete and spray wall systems for residential,
+              commercial, and infrastructure projects across Wellington.
             </p>
 
             <p>
-              We carefully design and construct walls to ensure proper
-              load-bearing capacity, drainage, and compliance with local
-              building codes.
-              <br />
-              Whether it’s a hillside retaining job, a large commercial site, or
-              a residential property, our team delivers concrete and spray wall
-              solutions that combine reliability and visual appeal.
+              Our services include <strong>spray-applied shotcrete</strong>,{" "}
+              <strong>poured-in-place concrete</strong>, and reinforced wall
+              construction designed for long-lasting performance. All walls are
+              built to meet proper load-bearing requirements, drainage needs,
+              and local building standards.
             </p>
 
             <p>
-              Trust <strong>Keene Krib</strong> for concrete and spray walls
-              that provide structural integrity, safety, and longevity, built
-              with industry best practices and high-quality materials.
+              Whether it’s a hillside retaining project, a large commercial
+              build, or a structural residential wall, our team provides
+              solutions that deliver strength, safety, and a clean finished
+              look.
+            </p>
+
+            <p>
+              Choose <strong>Anchors Drilled & Held</strong> for concrete and
+              spray walls that are engineered to last and built with
+              industry-leading methods and materials.
             </p>
           </div>
         </div>
 
         <div className="single-service-key">
-          <h4 className="features-title">Key Concrete / Spray Wall Services:</h4>
+          <h4 className="features-title">
+            Key Concrete / Spray Wall Services:
+          </h4>
+
           <ul className="service-features-grid">
             <li>
               <img
                 src="/img/icons/concrete-walls.svg"
                 alt="Concrete and Spray Walls Icon"
               />
-              Spray-Applied Shotcrete & Poured-in-Place – engineered walls for
-              residential and commercial projects
+              Spray-applied shotcrete and poured-in-place concrete walls for
+              residential and commercial builds
             </li>
+
             <li>
               <img src="/img/icons/anchors.svg" alt="Anchors Icon" />
-              Reinforced Concrete – added stability with anchor systems where
-              needed
+              Reinforced concrete walls with anchor and bracing options for
+              added structural stability
             </li>
+
             <li>
               <img
                 src="/img/icons/retaining-wall.svg"
                 alt="Retaining Wall Icon"
               />
-              Site Preparation & Drainage – foundation prep for durable,
-              long-lasting walls
+              Site preparation and drainage systems to support long-lasting wall
+              performance
             </li>
           </ul>
         </div>
